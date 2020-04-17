@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUDApplication</string>
+    <string-array name="arr_media">
+        <item>Kamera</item>
+        <item>Galery</item>
+    </string-array>
+</resources>
